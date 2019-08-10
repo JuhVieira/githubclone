@@ -1,13 +1,12 @@
 
 ## GitHub Repositories
 
-### git clone xxx
-No diretório do projeto, rode os seguintes comandos:
+### git clone https://github.com/JuhVieira/githubclone.git
 
+No diretório do projeto, rode os seguintes comandos:
 ### `npm install`
 
 depois: 
-
 ### `npm start`
 
 
