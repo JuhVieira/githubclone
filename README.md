@@ -1,5 +1,5 @@
 
-## GitHub Repositories
+## GitHub Clone
 
 ### git clone https://github.com/JuhVieira/githubclone.git
 
